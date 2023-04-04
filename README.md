@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.you.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 #
 
 
@@ -23,7 +23,7 @@
 
 # Tutorial 
 
-[![DEADLYSPAMBOT TUTORIAL](https://img.shields.io/badge/Watch%20Now-blue)](http://youtu.be/iAG3csVQo_g)
+[![DEADLYSPAMBOT TUTORIAL](https://img.shields.io/badge/Watch%20Now-blue)]
 
 ## What Is DeadlySpamBot
 
