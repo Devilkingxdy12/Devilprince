@@ -25,9 +25,9 @@ Deadly_Button = [
         Button.url("Cʜᴀɴɴᴇʟ", "https://t.me/Classics0012"),
         Button.url("Sᴜᴘᴘᴏʀᴛ", "https://t.me/Classics002")
         ],
-        [
-        Button.url("• Rᴇᴘᴏ •", "")
-        ]
+        
+        
+        
         ]
         
 
