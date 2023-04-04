@@ -9,7 +9,7 @@ hl = config.CMD_HNDLR
  
 HELP_PIC = "https://te.legra.ph/file/900b6cf283e7e1fc7667a.jpg"
 
-DEAD_HELP = "🔥 Dᴇᴀᴅʟʏ Sᴘᴀᴍ Bᴏᴛ 🔥\n\n"
+DEAD_HELP = "🔥 Dᴇ𝚅𝙸𝙻 Sᴘᴀᴍ Bᴏᴛ 🔥\n\n"
  
 DEAD_HELP += f"__ᴄᴍɴᴅs ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴅᴇᴀᴅʟʏ ʙᴏᴛ__\n\n"
 
@@ -27,7 +27,7 @@ DEAD_HELP += f" `!raid` - to raid\n `!replyraid` - to active reply raid\n `!drep
 
 DEAD_HELP += f" !pornspam - ɪ ᴡɪʟʟ ꜱᴜɢɢᴇꜱᴛ ᴅᴏɴ'ᴛ ᴜꜱᴇ ᴛʜɪꜱ ᴄᴏᴍᴍᴀɴᴅ😂 ↧\n\n"
 
-DEAD_HELP += f"© @TheDeadlyBots\n"
+DEAD_HELP += f"© @DevilXDY\n"
 
 
 @BOT0.on(events.NewMessage(incoming=True, pattern='/help'))
